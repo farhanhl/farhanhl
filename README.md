@@ -127,9 +127,9 @@ a corporate mobile app for aircraft component management and knowledge sharing a
 
 ## stats
 
-<p>
-  <img height="160" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=farhanhl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhl&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="180" alt="stats" src="https://raw.githubusercontent.com/farhanhl/farhanhl/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img height="180" alt="top languages" src="https://raw.githubusercontent.com/farhanhl/farhanhl/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </p>
 
 ---
