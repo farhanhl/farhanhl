@@ -15,15 +15,23 @@
 
 ## about me
 
-i live in VS Code and the terminal. been shipping web and mobile apps for almost 5 years now, from payment apps used by thousands of people to games that have no business running in a browser.
+Full-stack developer with nearly 5 years of experience building APIs, data-driven services, and integrations for web and mobile products, including a payment platform used by store owners across Indonesia. Currently a Full Stack Developer at Digital Mediatama Maxima.
 
-i like to plan before i code: a clear PRD first, AI agents to speed up the repetitive parts, then careful review and testing before anything ships.
+I design systems with attention to reliability, data integrity, and maintainability. Requirements are documented in a detailed PRD before implementation, and every change goes through review and testing before release.
 
-**right now:**
-- building with Next.js, TypeScript, and Supabase
-- automating boring things (WhatsApp bots with Baileys, web scraping)
-- messing around with Three.js
-- day job: full-stack dev at Digital Mediatama Maxima
+**core stack**
+- Node.js, NestJS, Go, and Laravel for APIs and services
+- PostgreSQL and MySQL for data storage
+- Docker for containerization, Vercel for deployment
+
+**current focus**
+- Building API-driven products with TypeScript and Next.js
+- Integrating AI into products, from receipt extraction to AI-assisted workflows
+- Applying AI-assisted tooling to speed up development without compromising quality
+
+**open to**
+- Roles and collaborations centered on APIs, data, and system design
+- Conversations about API design, AI integration, and AI-assisted development
 
 ---
 
