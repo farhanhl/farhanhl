@@ -1,8 +1,8 @@
 <h1 align="center">hey, i'm Farhan 👋</h1>
 
 <p align="center">
-  full-stack dev from Bekasi, Indonesia 🇮🇩<br>
-  building web apps, mobile apps, automation, and random 3D stuff
+  Full-stack developer based in Bekasi, Indonesia 🇮🇩<br>
+  Building APIs, data-driven services, and AI-powered products for web and mobile
 </p>
 
 <p align="center">
